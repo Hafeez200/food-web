@@ -1,8 +1,8 @@
 import React from 'react';
 import "./ExploreFood.css";
-import pizzaImage from "../assets/pizza.jpg";
-import burgerImage from '../assets/burger.jpg';
-import momoImage from '../assets/memo.jpg';
+import pizza from '../assets/pizza.jpg';
+import burger from '../assets/burger.jpg';
+import momo from '../assets/memo.jpg';
 
 function ExploreFood() {
   return (
@@ -10,15 +10,15 @@ function ExploreFood() {
       <h1>Explore Foods</h1>
       <div className='food-card-container'>
         <div className="food-card food-card1">
-          <img src={pizzaImage} alt="Pizza" />
+          <img src={pizza} alt="Pizza" />
           <p>Pizza</p>
         </div>
         <div className="food-card food-card2">
-          <img src={burgerImage} alt="Burger" />
+          <img src={burger} alt="Burger" />
           <p>Burger</p>
         </div>
         <div className="food-card food-card3">
-          <img src={momoImage} alt="Momo" />
+          <img src={momo} alt="Momo" />
           <p>Momo</p>
         </div>
       </div>
