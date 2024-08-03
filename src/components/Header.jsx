@@ -7,7 +7,7 @@ function Header() {
     <div className="header-container">
       <nav className="nav">
         <div className="logo">
-          <a href=""><img src="src\assets\logo.jpg" alt="not found"/></a>
+          <a href=""><img src="src\assets\logo.png" alt="not found"/></a>
         </div>
         <div className="nav-links">
           <a href=""><li>HOME</li></a>
