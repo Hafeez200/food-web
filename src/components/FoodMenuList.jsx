@@ -3,8 +3,8 @@ import FoodMenu from './FoodMenu';
 import pizzaImage from '../assets/pizza.jpg';
 import burgerImage from '../assets/burger.jpg';
 import momoImage from '../assets/memo.jpg';
-import risotto from "../assets/Risotto.jpeg";
-import pastaImage from '../assets/pasta.jpg'; 
+import risotto from "../assets/risotto.jpg";
+import pastaImage from '../assets/pasata.jpg'; 
 import sandwichImage from '../assets/sandwich.jpg'; 
 
 function FoodMenuList() {
